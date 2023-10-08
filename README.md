@@ -23,5 +23,5 @@ Greetings to all! My name is **Otto**! I am a novice software engineer. I am int
 ![Python](https://img.shields.io/badge/-Python-474747?style=for-the-badge&logo=python&logoColor=038eff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-474747?style=for-the-badge&logo=javascript&logoColor=ffb803)
 ![C++](https://img.shields.io/badge/-C++-474747?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Arduino IDE](https://img.shields.io/badge/-ArduinoIDE-474747?style=for-the-badge&logo=arduino&logoColor=ffb803)
+![Arduino IDE](https://img.shields.io/badge/-Arduino-474747?style=for-the-badge&logo=arduino&logoColor=12e0dd)
 Follow me
