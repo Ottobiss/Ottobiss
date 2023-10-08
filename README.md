@@ -3,7 +3,8 @@
 
 ### :memo: About me:
 
-Greetings to all! My name is Otto. I am a novice software engineer. I am interested in many things. 
+Greetings to all! My name is Otto. I am a novice software engineer. I am interested in many things.
+
 :pushpin: For example:
 
 - Big Data
