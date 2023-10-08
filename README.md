@@ -9,13 +9,13 @@
 
 :pushpin: **For example**:
 
-- **Big Data**
+- *Big Data*
 
-- **Data Science**
+- *Data Science*
 
-- **Machine learning**
+- *Machine learning*
 
-- **Web development**
+- *Web development*
 
 ---
 
