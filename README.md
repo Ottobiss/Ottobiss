@@ -30,4 +30,10 @@
 
 ---
 
-### :globe_with_meridians: Follow me:
+### :globe_with_meridians: Socials:
+
+  <div id="badges">
+    <a href="https://vk.com/wagdino" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
