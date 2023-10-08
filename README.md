@@ -3,18 +3,18 @@
 
 ### :memo: About me:
 
-Greetings to all! My name is Otto. I am a novice software engineer. I am interested in many things.
+Greetings to all! My name is **Otto**! I am a novice software engineer. I am interested in many things. :bulb:
 
-:pushpin: For example:
+:pushpin: **For example**:
 
-- Big Data
+- **Big Data**
 
-- Data Science
+- **Data Science**
 
-- Machine learning
+- **Machine learning**
 
-- Web development
+- **Web development**
 
-Languages
-
+### :hammer: Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 Follow me
