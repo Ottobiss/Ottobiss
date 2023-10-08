@@ -32,7 +32,7 @@
 
 ### :chart_with_upwards_trend: Statistics:
 
-![Лучшие языки]( https://github-readme-stats.vercel.app/api/top-langs/?username=ottobiss&size_weight=0.5&count_weight=0.5)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ottobis&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ottobis" /></p>
 
 ---
 
