@@ -3,9 +3,15 @@
 
 ### :memo: About me:
 
-Greetings to all! My name is Otto. I am a novice software engineer.
+Greetings to all! My name is Otto. I am a novice software engineer.I am interested in many things. For example:
 
-Interests
+- Big Data
+
+- Data Science
+
+- Machine learning
+
+- Web development
 
 Languages
 
