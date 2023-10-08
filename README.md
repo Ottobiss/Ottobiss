@@ -1,4 +1,4 @@
-[![Header](https://github.com/Ottobiss/Ottobiss/blob/main/assets/header.jpg)
+![Header](https://github.com/Ottobiss/Ottobiss/blob/main/assets/header.jpg)
 
 About me
 
