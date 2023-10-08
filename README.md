@@ -5,17 +5,27 @@
 
 ### :memo: About me:
 
-**Greetings to all! My name is Otto! I am a novice software engineer. I am interested in many things.** :bulb:
+**Greetings to all! My name is Otto! I am a novice software engineer.** :bulb:
 
-:pushpin: **For example**:
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- *Big Data*
 
-- *Data Science*
+class SoftwareEngineer:
 
-- *Machine learning*
+    def __init__(self):
+        self.name = "Otto"
+        self.role = "Software Engineer"
+        self.interests = ["Big Data", "Data Science", "Machine learning", "Web development"]
 
-- *Web development*
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ---
 
