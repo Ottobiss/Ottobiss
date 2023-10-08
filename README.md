@@ -32,11 +32,7 @@
 
 ### :chart_with_upwards_trend: Statistics:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+![Лучшие языки]( https://github-readme-stats.vercel.app/api/top-langs/?username=ottobiss&size_weight=0.5&count_weight=0.5)
 
 ---
 
