@@ -28,4 +28,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-474747?style=for-the-badge&logo=kotlin&logoColor=cf00bd)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-474747?style=for-the-badge&logo=tensorflow&logoColor=ff8c00)
 
-Follow me
+---
+
+### :globe_with_meridians: Follow me:
