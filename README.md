@@ -16,6 +16,6 @@ Greetings to all! My name is **Otto**! I am a novice software engineer. I am int
 - **Web development**
 
 ### :hammer: Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python&logoColor=47C5FB)
+![Python](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python&logoColor=038eff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=ffb803)
 Follow me
