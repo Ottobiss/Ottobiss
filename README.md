@@ -5,7 +5,7 @@
 
 ### :memo: About me:
 
-**Greetings to all! My name is Otto! I am a novice software engineer.** :bulb:
+**Greetings to all! My name is Otto! I am a beginner software engineer.** :bulb:
 
 ```python
 class SoftwareEngineer:
