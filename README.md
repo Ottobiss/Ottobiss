@@ -8,10 +8,6 @@
 **Greetings to all! My name is Otto! I am a novice software engineer.** :bulb:
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class SoftwareEngineer:
 
     def __init__(self):
