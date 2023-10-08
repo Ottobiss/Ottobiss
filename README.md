@@ -36,7 +36,7 @@
     <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
       <img src="https://github.com/Ottobiss/Ottobiss/blob/main/assets/icons/telegram.svg" width="40" height="40" alt="Telegram" />
     </a>
-    <a href="https://vk.com/wagdino" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    <a href="https://t.me/wagdino" target="_blank">
+      <img src="https://github.com/Ottobiss/Ottobiss/blob/main/assets/icons/vk.svg" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
