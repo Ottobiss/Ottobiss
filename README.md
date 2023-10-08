@@ -26,5 +26,5 @@
 ![Arduino IDE](https://img.shields.io/badge/-Arduino-474747?style=for-the-badge&logo=arduino&logoColor=12e0dd)
 ![Node-RED](https://img.shields.io/badge/-NodeRED-474747?style=for-the-badge&logo=nodered&logoColor=c90d06)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-474747?style=for-the-badge&logo=tensorflow&logoColor=ff8c00)
-![Raspberry](https://img.shields.io/badge/-Raspberry-474747?style=for-the-badge&logo=raspberry&logoColor=f20202)
+
 Follow me
