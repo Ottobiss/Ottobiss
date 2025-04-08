@@ -38,7 +38,7 @@ me.say_hi()
 
 ### :chart_with_upwards_trend: Statistics:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ottobis&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ottobiss&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ---
 
