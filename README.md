@@ -48,7 +48,7 @@ me.say_hi()
     <a href="https://t.me/wagdino" target="_blank">
       <img src="https://github.com/Ottobiss/Ottobiss/blob/main/assets/icons/telegram.svg" width="40" height="40" alt="Telegram" />
     </a>
-    <a href="https://vk.com/wagdino" target="_blank">
+    <a href="https://t.me/nikiromano" target="_blank">
       <img src="https://github.com/Ottobiss/Ottobiss/blob/main/assets/icons/vk.svg" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
